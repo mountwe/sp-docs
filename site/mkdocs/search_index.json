@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Index"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/start/",
+            "text": "Header 1",
+            "title": "Get Started"
+        },
+        {
+            "location": "/start/#header-1",
+            "text": "",
+            "title": "Header 1"
+        },
+        {
+            "location": "/config/setup/",
+            "text": "Well, what about this?",
+            "title": "Setup"
+        },
+        {
+            "location": "/config/setup/#well-what-about-this",
+            "text": "",
+            "title": "Well, what about this?"
+        },
+        {
+            "location": "/config/debug/",
+            "text": "Millimeters\n\n\nCentimeters\n\n\n\n\n\n\nPixels\n\n\nEms\n\n\nPoints\n\n\nPicas\n\n\n\n\n\n\nInches\n\n\n\n\n\n\nKilometers",
+            "title": "Debug"
+        }
+    ]
+}

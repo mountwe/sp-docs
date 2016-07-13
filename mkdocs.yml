@@ -1,0 +1,8 @@
+site_name: SitePoint Documentation
+site_description: Description of the documentation
+theme: readthedocs
+pages:
+- ['index.md', 'Index']
+- ['start.md', 'Get Started']
+- ['config/setup.md', 'Configuration', 'Setup']
+- ['config/debug.md', 'Configuration', 'Debug']
