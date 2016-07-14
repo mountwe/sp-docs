@@ -3,6 +3,6 @@ site_description: Description of the documentation
 theme: readthedocs
 pages:
 - ['index.md', 'Index']
-- ['start.md', 'Get Started']
+- ['start.md', 'Using Linux', 'Getting Started']
 - ['config/setup.md', 'Configuration', 'Setup']
 - ['config/debug.md', 'Configuration', 'Debug']
